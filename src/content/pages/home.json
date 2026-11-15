@@ -1,0 +1,417 @@
+{
+  "globalReach": {
+    "eyebrow": "Global Reach",
+    "heading": "From Maharashtra to the World.",
+    "body": "Exporting organic produce and chemical-free food products to UAE, Europe, USA, and worldwide markets — with every shipment traceable to the farmer who grew it.",
+    "regions": [
+      {
+        "id": "r1",
+        "flag": "🇮🇳",
+        "label": "India",
+        "sub": "Origin"
+      },
+      {
+        "id": "r2",
+        "flag": "🇦🇪",
+        "label": "UAE",
+        "sub": "Middle East"
+      },
+      {
+        "id": "r14",
+        "flag": "🇺🇸",
+        "label": "United States",
+        "sub": "USA"
+      },
+      {
+        "id": "r9",
+        "flag": "🇬🇧",
+        "label": "United Kingdom",
+        "sub": "UK"
+      },
+      {
+        "id": "r10",
+        "flag": "🇩🇪",
+        "label": "Germany",
+        "sub": "Europe"
+      },
+      {
+        "id": "r12",
+        "flag": "🇫🇷",
+        "label": "France",
+        "sub": "Europe"
+      },
+      {
+        "id": "r17",
+        "flag": "🇯🇵",
+        "label": "Japan",
+        "sub": "Asia Pacific"
+      },
+      {
+        "id": "r16",
+        "flag": "🇦🇺",
+        "label": "Australia",
+        "sub": "Oceania"
+      },
+      {
+        "id": "r15",
+        "flag": "🇨🇦",
+        "label": "Canada",
+        "sub": "North America"
+      },
+      {
+        "id": "r66",
+        "flag": "🇷🇺",
+        "label": "Russia",
+        "sub": "Eastern Europe"
+      },
+      {
+        "id": "r37",
+        "flag": "🇨🇳",
+        "label": "China",
+        "sub": "Asia Pacific"
+      },
+      {
+        "id": "r4",
+        "flag": "🇶🇦",
+        "label": "Qatar",
+        "sub": "Doha"
+      },
+      {
+        "id": "r3",
+        "flag": "🇸🇦",
+        "label": "Saudi Arabia",
+        "sub": "KSA"
+      },
+      {
+        "id": "r5",
+        "flag": "🇰🇼",
+        "label": "Kuwait",
+        "sub": "Gulf"
+      },
+      {
+        "id": "r6",
+        "flag": "🇴🇲",
+        "label": "Oman",
+        "sub": "Gulf"
+      },
+      {
+        "id": "r7",
+        "flag": "🇧🇭",
+        "label": "Bahrain",
+        "sub": "Gulf"
+      },
+      {
+        "id": "r8",
+        "flag": "🌍",
+        "label": "Europe",
+        "sub": "EU Markets"
+      },
+      {
+        "id": "r11",
+        "flag": "🇳🇱",
+        "label": "Netherlands",
+        "sub": "Europe"
+      },
+      {
+        "id": "r18",
+        "flag": "🇸🇬",
+        "label": "Singapore",
+        "sub": "Southeast Asia"
+      },
+      {
+        "id": "r19",
+        "flag": "🇨🇭",
+        "label": "Switzerland",
+        "sub": "Europe"
+      },
+      {
+        "id": "r20",
+        "flag": "🇦🇹",
+        "label": "Austria",
+        "sub": "Europe"
+      },
+      {
+        "id": "r21",
+        "flag": "🇸🇪",
+        "label": "Sweden",
+        "sub": "Scandinavia"
+      },
+      {
+        "id": "r22",
+        "flag": "🇩🇰",
+        "label": "Denmark",
+        "sub": "Scandinavia"
+      },
+      {
+        "id": "r23",
+        "flag": "🇳🇴",
+        "label": "Norway",
+        "sub": "Scandinavia"
+      },
+      {
+        "id": "r24",
+        "flag": "🇫🇮",
+        "label": "Finland",
+        "sub": "Scandinavia"
+      },
+      {
+        "id": "r25",
+        "flag": "🇧🇪",
+        "label": "Belgium",
+        "sub": "Europe"
+      },
+      {
+        "id": "r26",
+        "flag": "🇮🇹",
+        "label": "Italy",
+        "sub": "Europe"
+      },
+      {
+        "id": "r27",
+        "flag": "🇪🇸",
+        "label": "Spain",
+        "sub": "Europe"
+      },
+      {
+        "id": "r28",
+        "flag": "🇵🇹",
+        "label": "Portugal",
+        "sub": "Europe"
+      },
+      {
+        "id": "r29",
+        "flag": "🇮🇪",
+        "label": "Ireland",
+        "sub": "Europe"
+      },
+      {
+        "id": "r30",
+        "flag": "🇵🇱",
+        "label": "Poland",
+        "sub": "Europe"
+      },
+      {
+        "id": "r31",
+        "flag": "🇨🇿",
+        "label": "Czech Republic",
+        "sub": "Europe"
+      },
+      {
+        "id": "r32",
+        "flag": "🇭🇺",
+        "label": "Hungary",
+        "sub": "Europe"
+      },
+      {
+        "id": "r33",
+        "flag": "🇷🇴",
+        "label": "Romania",
+        "sub": "Europe"
+      },
+      {
+        "id": "r34",
+        "flag": "🇬🇷",
+        "label": "Greece",
+        "sub": "Europe"
+      },
+      {
+        "id": "r35",
+        "flag": "🇳🇿",
+        "label": "New Zealand",
+        "sub": "Oceania"
+      },
+      {
+        "id": "r36",
+        "flag": "🇰🇷",
+        "label": "South Korea",
+        "sub": "Asia Pacific"
+      },
+      {
+        "id": "r38",
+        "flag": "🇭🇰",
+        "label": "Hong Kong",
+        "sub": "Asia Pacific"
+      },
+      {
+        "id": "r39",
+        "flag": "🇹🇼",
+        "label": "Taiwan",
+        "sub": "Asia Pacific"
+      },
+      {
+        "id": "r40",
+        "flag": "🇲🇾",
+        "label": "Malaysia",
+        "sub": "Southeast Asia"
+      },
+      {
+        "id": "r41",
+        "flag": "🇹🇭",
+        "label": "Thailand",
+        "sub": "Southeast Asia"
+      },
+      {
+        "id": "r42",
+        "flag": "🇮🇩",
+        "label": "Indonesia",
+        "sub": "Southeast Asia"
+      },
+      {
+        "id": "r43",
+        "flag": "🇵🇭",
+        "label": "Philippines",
+        "sub": "Southeast Asia"
+      },
+      {
+        "id": "r44",
+        "flag": "🇻🇳",
+        "label": "Vietnam",
+        "sub": "Southeast Asia"
+      },
+      {
+        "id": "r45",
+        "flag": "🇧🇩",
+        "label": "Bangladesh",
+        "sub": "South Asia"
+      },
+      {
+        "id": "r46",
+        "flag": "🇱🇰",
+        "label": "Sri Lanka",
+        "sub": "South Asia"
+      },
+      {
+        "id": "r47",
+        "flag": "🇳🇵",
+        "label": "Nepal",
+        "sub": "South Asia"
+      },
+      {
+        "id": "r48",
+        "flag": "🇲🇻",
+        "label": "Maldives",
+        "sub": "South Asia"
+      },
+      {
+        "id": "r49",
+        "flag": "🇮🇱",
+        "label": "Israel",
+        "sub": "Middle East"
+      },
+      {
+        "id": "r50",
+        "flag": "🇯🇴",
+        "label": "Jordan",
+        "sub": "Middle East"
+      },
+      {
+        "id": "r51",
+        "flag": "🇱🇧",
+        "label": "Lebanon",
+        "sub": "Middle East"
+      },
+      {
+        "id": "r52",
+        "flag": "🇮🇶",
+        "label": "Iraq",
+        "sub": "Middle East"
+      },
+      {
+        "id": "r53",
+        "flag": "🇾🇪",
+        "label": "Yemen",
+        "sub": "Middle East"
+      },
+      {
+        "id": "r54",
+        "flag": "🇲🇽",
+        "label": "Mexico",
+        "sub": "Latin America"
+      },
+      {
+        "id": "r55",
+        "flag": "🇧🇷",
+        "label": "Brazil",
+        "sub": "Latin America"
+      },
+      {
+        "id": "r56",
+        "flag": "🇦🇷",
+        "label": "Argentina",
+        "sub": "Latin America"
+      },
+      {
+        "id": "r57",
+        "flag": "🇨🇱",
+        "label": "Chile",
+        "sub": "Latin America"
+      },
+      {
+        "id": "r58",
+        "flag": "🇨🇴",
+        "label": "Colombia",
+        "sub": "Latin America"
+      },
+      {
+        "id": "r59",
+        "flag": "🇵🇪",
+        "label": "Peru",
+        "sub": "Latin America"
+      },
+      {
+        "id": "r60",
+        "flag": "🇿🇦",
+        "label": "South Africa",
+        "sub": "Africa"
+      },
+      {
+        "id": "r61",
+        "flag": "🇰🇪",
+        "label": "Kenya",
+        "sub": "Africa"
+      },
+      {
+        "id": "r62",
+        "flag": "🇳🇬",
+        "label": "Nigeria",
+        "sub": "Africa"
+      },
+      {
+        "id": "r63",
+        "flag": "🇪🇬",
+        "label": "Egypt",
+        "sub": "Africa"
+      },
+      {
+        "id": "r64",
+        "flag": "🇲🇦",
+        "label": "Morocco",
+        "sub": "Africa"
+      },
+      {
+        "id": "r65",
+        "flag": "🇹🇿",
+        "label": "Tanzania",
+        "sub": "Africa"
+      },
+      {
+        "id": "r67",
+        "flag": "🇺🇦",
+        "label": "Ukraine",
+        "sub": "Eastern Europe"
+      },
+      {
+        "id": "r68",
+        "flag": "🇹🇷",
+        "label": "Turkey",
+        "sub": "Eurasia"
+      },
+      {
+        "id": "r69",
+        "flag": "🇰🇿",
+        "label": "Kazakhstan",
+        "sub": "Central Asia"
+      }
+    ]
+  }
+}

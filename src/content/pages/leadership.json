@@ -1,0 +1,54 @@
+{
+  "hero": {
+    "eyebrow": "Leadership",
+    "headline": "The Founder Behind the Vision",
+    "subheadline": "OrganicGlobe International was built by someone who grew up witnessing the gap between what Indian farmers produce and what they are paid. Avinash Chavan founded the company to close that gap — permanently."
+  },
+  "founder": {
+    "name": "Avinash Chavan",
+    "title": "Founder & Managing Director",
+    "company": "OrganicGlobe International · Maharashtra, India",
+    "photo": "/assets/IMG_20220816_103623_610.jpg",
+    "photoAlt": "Avinash Chavan — Founder & Managing Director, OrganicGlobe International"
+  },
+  "letter": {
+    "eyebrow": "A Letter from Our Founder",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "text": "Every major shift in agriculture begins with a fundamental question of respect: respect for the soil, respect for the consumer, and respect for the hands that cultivate our food."
+      },
+      {
+        "id": "p2",
+        "text": "Growing up surrounded by the realities of Indian agriculture in Maharashtra, I saw firsthand the unmatched dedication of our farming communities — growers who understand the land intimately and put everything on the line to cultivate pure, chemical-free harvests. Yet, under conventional trade systems, these same producers face volatile pricing and fragmented supply chains, while international buyers struggle to verify the true origin, purity, and ethical standards of their imports."
+      },
+      {
+        "id": "p3",
+        "text": "I established OrganicGlobe International to eliminate that divide."
+      },
+      {
+        "id": "p4",
+        "text": "Our mission is to prove that global agricultural trade can be both commercially robust and deeply restorative. We operate not merely as an export trading house, but as an integrated supply partner. By working directly with certified organic growers, deploying clear traceability standards, and modernising post-harvest handling, we ensure complete purity from the farm gate to international ports."
+      },
+      {
+        "id": "p5",
+        "text": "For our international partners, this delivers a dependable pipeline of clean-label, single-origin Indian commodities — from nutrient-dense jaggery to premium cold-pressed oils — backed by uncompromised supply chain integrity. For our farmers, it guarantees transparent pricing, technical collaboration, and long-term financial security."
+      },
+      {
+        "id": "p6",
+        "text": "We built OrganicGlobe International on a clear principle: true profitability is born from ethical integrity. When our farming partners thrive and our soil is protected, our entire business becomes stronger, more reliable, and built for lasting commercial success. As we expand our global footprint across key export markets, our focus remains absolute: delivering world-class organic produce to the world while preserving the land and elevating the communities that cultivate it."
+      }
+    ],
+    "signatureName": "Avinash Chavan",
+    "signatureTitle": "Founder & Managing Director",
+    "signatureCompany": "OrganicGlobe International"
+  },
+  "cta": {
+    "headline": "Partner With a Supply Chain Built on Integrity",
+    "body": "Whether you are a global buyer, a farmer looking for a fair partner, or an investor who believes in ethical commerce — we would love to connect.",
+    "primaryLabel": "Get in Touch",
+    "primaryHref": "/contact",
+    "secondaryLabel": "Farmer Partnership",
+    "secondaryHref": "/farmer-partnership"
+  }
+}

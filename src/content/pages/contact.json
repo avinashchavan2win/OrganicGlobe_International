@@ -1,0 +1,38 @@
+{
+  "hero": {
+    "eyebrow": "Contact Us",
+    "heading": "We'd Love to Hear From You",
+    "body": "Whether you are an importer, distributor, or a farmer looking to partner — tell us about yourself and we will be in touch."
+  },
+  "sidebar": {
+    "eyebrow": "Get in Touch",
+    "heading": "Direct Lines of Communication",
+    "body": "We respond to all genuine enquiries within 2 business days. For urgent trade matters, please mention it in your message.",
+    "whoWeWorkWith": {
+      "heading": "Who We Work With",
+      "items": [
+        {
+          "id": "w1",
+          "text": "International importers & trading houses"
+        },
+        {
+          "id": "w2",
+          "text": "Organic food distributors & retailers"
+        },
+        {
+          "id": "w3",
+          "text": "Health food brands seeking single-origin supply"
+        },
+        {
+          "id": "w4",
+          "text": "Farmers in India seeking fair partnerships"
+        }
+      ]
+    }
+  },
+  "success": {
+    "heading": "Enquiry Received",
+    "body": "Thank you for reaching out. We will review your message and get back to you within 2 business days.",
+    "resetLabel": "Send Another Enquiry"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "pages/home/vision-produce": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2197737836",
+    "searchQuery": "overhead shot fresh organic produce mangoes leafy greens tomatoes on jute burlap surface warm morning light farm India",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1334506513",
+      "https://img1.wsimg.com/isteam/getty/2222353920",
+      "https://img1.wsimg.com/isteam/getty/2154101327"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-01T00:07:17.595Z",
+    "lastUpdated": "2026-06-01T00:07:17.595Z",
+    "gettyId": "2197737836",
+    "alternativeGettyIds": [
+      "1334506513",
+      "2222353920",
+      "2154101327"
+    ],
+    "orientations": "horizontal",
+    "compositions": "wide_shot",
+    "moods": "warm,natural",
+    "minimumSize": "large"
+  },
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-horizontal-3629e7f8.png",
+    "searchQuery": "",
+    "alternatives": [
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/e91a2740-878b-45c9-ab76-e8f5e5cf4638/session/6a89b1b5-c14c-4079-887d-6aacf098caf2/horizontal-transparent-e2c8d4d5627ba94ed292f80e8807dea1/logo-organicglobe-international-e2c8d4.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/e91a2740-878b-45c9-ab76-e8f5e5cf4638/session/e7f783cb-eff0-45ef-8779-113db61b0525/horizontal-transparent-1163451772452937f27db8cc3cef2160/logo-organicglobe-international-116345.png"
+    ],
+    "reversedUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/e91a2740-878b-45c9-ab76-e8f5e5cf4638/session/6a89b1b5-c14c-4079-887d-6aacf098caf2/horizontal-transparent-e2c8d4d5627ba94ed292f80e8807dea1/logo-organicglobe-international-e2c8d4.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/e91a2740-878b-45c9-ab76-e8f5e5cf4638/session/6a89b1b5-c14c-4079-887d-6aacf098caf2/horizontal-reversed-48dc10b03f64434c9b1a096bd89c5061/logo-organicglobe-international-48dc10.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/e91a2740-878b-45c9-ab76-e8f5e5cf4638/session/e7f783cb-eff0-45ef-8779-113db61b0525/horizontal-transparent-1163451772452937f27db8cc3cef2160/logo-organicglobe-international-116345.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/e91a2740-878b-45c9-ab76-e8f5e5cf4638/session/e7f783cb-eff0-45ef-8779-113db61b0525/horizontal-reversed-0aeb7fab55533b0eb80cf6fa3e48c8db/logo-organicglobe-international-0aeb7f.png"
+    },
+    "reversedSolidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/e91a2740-878b-45c9-ab76-e8f5e5cf4638/session/6a89b1b5-c14c-4079-887d-6aacf098caf2/horizontal-transparent-e2c8d4d5627ba94ed292f80e8807dea1/logo-organicglobe-international-e2c8d4.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/e91a2740-878b-45c9-ab76-e8f5e5cf4638/session/6a89b1b5-c14c-4079-887d-6aacf098caf2/horizontal-reversed-solid-77ca878349f86cf080b97fe16236290a/logo-organicglobe-international-77ca87.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/e91a2740-878b-45c9-ab76-e8f5e5cf4638/session/e7f783cb-eff0-45ef-8779-113db61b0525/horizontal-transparent-1163451772452937f27db8cc3cef2160/logo-organicglobe-international-116345.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/e91a2740-878b-45c9-ab76-e8f5e5cf4638/session/e7f783cb-eff0-45ef-8779-113db61b0525/horizontal-reversed-solid-cd2a80362fde17fcd71b6de9eece1aa5/logo-organicglobe-international-cd2a80.png"
+    },
+    "userModified": true,
+    "createdAt": "2026-06-01T00:08:17.411Z",
+    "lastUpdated": "2026-09-14T16:53:42.388Z",
+    "uploadSources": {
+      "/airo-assets/uploads/logo-horizontal-3629e7f8.png": "n7sqn92ija_1789404810302_file_kZ6NmVQT2F.png"
+    },
+    "uploadContentHash": "28f7e0f2d7987fd7ebc770416851ef6629ecf2bb3e8a56d9e50989729c7abd31",
+    "naturalOrientation": "horizontal",
+    "darkSurfaceUrl": "/airo-assets/uploads/logo-horizontal-3629e7f8.png",
+    "surfaceMode": "dark"
+  },
+  "logo/primary": {
+    "darkSurfaceUrl": "/airo-assets/uploads/logo-primary-2c4456b9.png",
+    "surfaceMode": "dark",
+    "currentUrl": "/airo-assets/uploads/logo-primary-2c4456b9.png",
+    "userModified": true,
+    "mediaType": "logo",
+    "searchQuery": "",
+    "alternatives": [],
+    "uploadSources": {
+      "/airo-assets/uploads/logo-primary-2c4456b9.png": "n7sqn92ija_1789404810302_file_kZ6NmVQT2F.png"
+    },
+    "uploadContentHash": "28f7e0f2d7987fd7ebc770416851ef6629ecf2bb3e8a56d9e50989729c7abd31",
+    "createdAt": "2026-09-14T16:53:42.389Z",
+    "lastUpdated": "2026-09-14T16:53:42.389Z",
+    "naturalOrientation": "square"
+  },
+  "logo/vertical": {
+    "darkSurfaceUrl": "/airo-assets/uploads/logo-vertical-1f8358e1.png",
+    "surfaceMode": "dark",
+    "currentUrl": "/airo-assets/uploads/logo-vertical-1f8358e1.png",
+    "userModified": true,
+    "mediaType": "logo",
+    "searchQuery": "",
+    "alternatives": [],
+    "uploadSources": {
+      "/airo-assets/uploads/logo-vertical-1f8358e1.png": "n7sqn92ija_1789404810302_file_kZ6NmVQT2F.png"
+    },
+    "uploadContentHash": "28f7e0f2d7987fd7ebc770416851ef6629ecf2bb3e8a56d9e50989729c7abd31",
+    "createdAt": "2026-09-14T16:53:42.389Z",
+    "lastUpdated": "2026-09-14T16:53:42.389Z",
+    "naturalOrientation": "vertical"
+  },
+  "logo/favicon": {
+    "darkSurfaceUrl": "/airo-assets/uploads/logo-favicon-b574960c.png",
+    "surfaceMode": "dark",
+    "currentUrl": "/airo-assets/uploads/logo-favicon-b574960c.png",
+    "userModified": true,
+    "mediaType": "logo",
+    "searchQuery": "",
+    "alternatives": [],
+    "uploadSources": {
+      "/airo-assets/uploads/logo-favicon-b574960c.png": "n7sqn92ija_1789404810302_file_kZ6NmVQT2F.png"
+    },
+    "uploadContentHash": "28f7e0f2d7987fd7ebc770416851ef6629ecf2bb3e8a56d9e50989729c7abd31",
+    "createdAt": "2026-09-14T16:53:42.389Z",
+    "lastUpdated": "2026-09-14T16:53:42.389Z"
+  }
+}
