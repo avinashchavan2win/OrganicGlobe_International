@@ -18,7 +18,7 @@ export default function Footer() {
           <div className="flex flex-col gap-4">
             <div className="flex flex-col gap-1">
               <img
-                src="/airo-assets/images/logo/horizontal"
+                src="/assets/logo-horizontal.png"
                 alt="OrganicGlobe International"
                 className="h-12 w-auto object-contain self-start shrink-0" />
               <span className="text-white/35 text-[10px] tracking-widest uppercase pl-0.5">Est. 2023</span>

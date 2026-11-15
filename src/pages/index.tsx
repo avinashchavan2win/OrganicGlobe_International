@@ -214,7 +214,7 @@ export default function HomePage() {
               '@id': 'https://organicglobeinternational.com/#organization',
               name: 'OrganicGlobe International',
               url: 'https://organicglobeinternational.com',
-              logo: 'https://organicglobeinternational.com/airo-assets/images/logo/horizontal',
+              logo: 'https://organicglobeinternational.com/assets/logo-horizontal.png',
               description: 'OrganicGlobe International is a Maharashtra, India-based organic produce export company that supplies certified chemical-free fruits, vegetables, jaggery, and cold-pressed oils directly from Indian farmers to international buyers worldwide.',
               foundingDate: '2023',
               founder: {

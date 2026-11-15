@@ -42,14 +42,14 @@ export default function ExportMarketsPage() {
         <meta property="og:description" content="OrganicGlobe International exports organic produce and food products to UAE, Europe, USA, and worldwide markets. Traceable from farm to shelf." />
         <meta property="og:url" content="https://organicglobeinternational.com/export-markets" />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="https://organicglobeinternational.com/airo-assets/images/logo/horizontal" />
+        <meta property="og:image" content="https://organicglobeinternational.com/assets/logo-horizontal.png" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
         <meta property="og:image:alt" content="OrganicGlobe International — Exporting Organic Produce Worldwide" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Export Markets — OrganicGlobe International" />
         <meta name="twitter:description" content="OrganicGlobe International exports organic produce and food products to UAE, Europe, USA, and worldwide markets." />
-        <meta name="twitter:image" content="https://organicglobeinternational.com/airo-assets/images/logo/horizontal" />
+        <meta name="twitter:image" content="https://organicglobeinternational.com/assets/logo-horizontal.png" />
       </Helmet>
 
       {/* Hero */}

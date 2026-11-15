@@ -31,7 +31,7 @@ export default function Header() {
         <div className="flex h-20 items-center justify-between">
           {/* Logo */}
           <Link to="/" className="flex flex-col items-start shrink-0 gap-0.5">
-            <img src="/airo-assets/images/logo/horizontal" alt="OrganicGlobe International" className="h-10 md:h-12 w-auto object-contain shrink-0" />
+            <img src="/assets/logo-horizontal.png" alt="OrganicGlobe International" className="h-10 md:h-12 w-auto object-contain shrink-0" />
             <span className="text-white/40 text-[10px] tracking-widest uppercase pl-0.5">EST. 2023</span>
           </Link>
 

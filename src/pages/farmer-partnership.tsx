@@ -12,14 +12,14 @@ export default function FarmerPartnershipPage() {
         <meta property="og:description" content="How OrganicGlobe International partners directly with farmers in Maharashtra, eliminating middlemen and increasing farmer income by 150%+." />
         <meta property="og:url" content="https://organicglobeinternational.com/farmer-partnership" />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="https://organicglobeinternational.com/airo-assets/images/logo/horizontal" />
+        <meta property="og:image" content="https://organicglobeinternational.com/assets/logo-horizontal.png" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
         <meta property="og:image:alt" content="OrganicGlobe International — Direct Farmer Partnership Model" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Farmer Partnership — OrganicGlobe International" />
         <meta name="twitter:description" content="How OrganicGlobe International partners directly with farmers in Maharashtra, eliminating middlemen and increasing farmer income by 150%+." />
-        <meta name="twitter:image" content="https://organicglobeinternational.com/airo-assets/images/logo/horizontal" />
+        <meta name="twitter:image" content="https://organicglobeinternational.com/assets/logo-horizontal.png" />
       </Helmet>
       <section className="min-h-[70vh] bg-background flex flex-col items-center justify-center text-center px-4 py-24">
         <div className="flex flex-col items-center gap-6 max-w-lg">

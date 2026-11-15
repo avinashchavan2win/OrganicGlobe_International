@@ -12,14 +12,14 @@ export default function ProductsPage() {
         <meta property="og:description" content="Organic fruits, vegetables, and chemical-free manufactured food products from OrganicGlobe International — sourced directly from certified farmers in Maharashtra, India." />
         <meta property="og:url" content="https://organicglobeinternational.com/products" />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="https://organicglobeinternational.com/airo-assets/images/logo/horizontal" />
+        <meta property="og:image" content="https://organicglobeinternational.com/assets/logo-horizontal.png" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
         <meta property="og:image:alt" content="OrganicGlobe International — Organic Products Catalog" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Products — OrganicGlobe International" />
         <meta name="twitter:description" content="Organic fruits, vegetables, and chemical-free manufactured food products from OrganicGlobe International." />
-        <meta name="twitter:image" content="https://organicglobeinternational.com/airo-assets/images/logo/horizontal" />
+        <meta name="twitter:image" content="https://organicglobeinternational.com/assets/logo-horizontal.png" />
       </Helmet>
       <section className="min-h-[70vh] bg-background flex flex-col items-center justify-center text-center px-4 py-24">
         <div className="flex flex-col items-center gap-6 max-w-lg">

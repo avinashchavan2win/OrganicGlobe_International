@@ -44,14 +44,14 @@ export default function AboutPage() {
         <meta property="og:description" content={description} />
         <meta property="og:url" content={url} />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content={`${site}/airo-assets/images/logo/horizontal`} />
+        <meta property="og:image" content={`${site}/assets/logo-horizontal.png`} />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
         <meta property="og:image:alt" content="OrganicGlobe International — Pure From the Farm. Delivering to the World." />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
-        <meta name="twitter:image" content={`${site}/airo-assets/images/logo/horizontal`} />
+        <meta name="twitter:image" content={`${site}/assets/logo-horizontal.png`} />
         <script type="application/ld+json">{JSON.stringify({
             '@context': 'https://schema.org',
             '@type': 'AboutPage',

@@ -344,14 +344,14 @@ export default function ContactPage() {
         <meta property="og:description" content="Get in touch with OrganicGlobe International — for importers, distributors, farmer partners, and investors seeking clean, traceable organic produce from India." />
         <meta property="og:url" content="https://organicglobeinternational.com/contact" />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="https://organicglobeinternational.com/airo-assets/images/logo/horizontal" />
+        <meta property="og:image" content="https://organicglobeinternational.com/assets/logo-horizontal.png" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
         <meta property="og:image:alt" content="OrganicGlobe International — Pure From the Farm. Delivering to the World." />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Contact — OrganicGlobe International" />
         <meta name="twitter:description" content="Get in touch with OrganicGlobe International — for importers, distributors, farmer partners, and investors seeking clean, traceable organic produce from India." />
-        <meta name="twitter:image" content="https://organicglobeinternational.com/airo-assets/images/logo/horizontal" />
+        <meta name="twitter:image" content="https://organicglobeinternational.com/assets/logo-horizontal.png" />
       </Helmet>
 
       {/* Hero */}
