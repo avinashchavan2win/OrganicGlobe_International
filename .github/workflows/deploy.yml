@@ -24,11 +24,11 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 22
-
       - name: Install dependencies & Build
         run: |
           npm install
           npm run build
+          cp dist/client/index.html dist/client/404.html
           touch dist/client/.nojekyll
 
       - name: Setup Pages
