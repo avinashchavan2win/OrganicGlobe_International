@@ -629,7 +629,7 @@ export default function HomePage() {
               }
             </form>
             {notifyError && <p className="text-red-500 text-xs mt-1">{notifyError}</p>}
-            <p className="text-muted-foreground text-xs">We'll reach out the moment we're live. No spam.</p>
+            <p className="text-muted-foreground text-xs">We'll reach out the moment we're live.</p>
           </motion.div>
         </div>
       </section>
