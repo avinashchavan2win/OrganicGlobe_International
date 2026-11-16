@@ -40,7 +40,7 @@ export default function Header() {
               alt="OrganicGlobe International"
               className="absolute inset-0 h-full w-full object-cover"
             />
-            <span className="absolute bottom-1 left-1 z-10 text-[10px] font-semibold tracking-widest text-white uppercase">
+            <span className="absolute bottom-0 left-1 z-10 text-[10px] font-semibold tracking-widest text-white uppercase">
               EST. 2023
             </span>
           </Link>
