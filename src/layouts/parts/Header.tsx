@@ -30,9 +30,19 @@ export default function Header() {
       <div className="container mx-auto px-4 lg:px-8">
         <div className="flex h-20 items-center justify-between">
           {/* Logo */}
-          <Link to="/" className="flex flex-col items-start shrink-0 gap-0.5">
-            <img src="/assets/logo-horizontal.png" alt="OrganicGlobe International" className="h-10 md:h-12 w-auto object-contain shrink-0" />
-            <span className="text-white/40 text-[10px] tracking-widest uppercase pl-0.5">EST. 2023</span>
+          <Link
+            to="/"
+            aria-label="OrganicGlobe International — home"
+            className="relative isolate h-14 w-48 shrink-0 overflow-hidden md:h-16 md:w-[240px] lg:w-36 xl:h-20 xl:w-[300px]"
+          >
+            <img
+              src="/assets/logo-horizontal.png"
+              alt="OrganicGlobe International"
+              className="absolute inset-0 h-full w-full object-cover"
+            />
+            <span className="absolute bottom-1 left-1 z-10 text-[10px] font-semibold tracking-widest text-white uppercase">
+              EST. 2023
+            </span>
           </Link>
 
           {/* Desktop Nav */}
