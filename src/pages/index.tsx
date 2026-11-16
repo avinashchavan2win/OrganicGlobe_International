@@ -195,14 +195,14 @@ export default function HomePage() {
         <meta property="og:description" content="OrganicGlobe International exports certified organic produce and chemical-free food products worldwide, sourced directly from trusted farmers in Maharashtra, India." />
         <meta property="og:url" content="https://organicglobeinternational.com/" />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="https://organicglobeinternational.com/assets/logo-horizontal.png" />
+        <meta property="og:image" content="https://organicglobeinternational.com/assets/organic-vegetables-maharashtra.jpg" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
         <meta property="og:image:alt" content="OrganicGlobe International — Pure From the Farm. Delivering to the World." />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="OrganicGlobe International — Pure From the Farm. Delivering to the World." />
         <meta name="twitter:description" content="OrganicGlobe International exports certified organic produce and chemical-free food products worldwide, sourced directly from trusted farmers in Maharashtra, India." />
-        <meta name="twitter:image" content="https://organicglobeinternational.com/assets/logo-horizontal.png" />
+        <meta name="twitter:image" content="https://organicglobeinternational.com/assets/organic-vegetables-maharashtra.jpg" />
         <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
         <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1" />
         <meta name="google-extended" content="index, follow" />
@@ -407,8 +407,8 @@ export default function HomePage() {
               {/* Produce image */}
               <div className="rounded-2xl overflow-hidden aspect-[4/3] mb-2">
                 <img
-                  src="/airo-assets/images/pages/home/vision-produce"
-                  alt="Fresh organic produce sourced from Maharashtra farms"
+                  src="/assets/organic-vegetables-maharashtra.jpg"
+                  alt="Fresh vegetables including leafy greens, cauliflower, carrots, tomatoes, eggplants and okra"
                   className="w-full h-full object-cover" />
                 
               </div>
