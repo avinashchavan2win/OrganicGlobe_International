@@ -195,14 +195,14 @@ export default function HomePage() {
         <meta property="og:description" content="OrganicGlobe International exports certified organic produce and chemical-free food products worldwide, sourced directly from trusted farmers in Maharashtra, India." />
         <meta property="og:url" content="https://organicglobeinternational.com/" />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="https://organicglobeinternational.com/airo-assets/images/pages/home/vision-produce" />
+        <meta property="og:image" content="https://organicglobeinternational.com/assets/logo-horizontal.png" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
         <meta property="og:image:alt" content="OrganicGlobe International — Pure From the Farm. Delivering to the World." />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="OrganicGlobe International — Pure From the Farm. Delivering to the World." />
         <meta name="twitter:description" content="OrganicGlobe International exports certified organic produce and chemical-free food products worldwide, sourced directly from trusted farmers in Maharashtra, India." />
-        <meta name="twitter:image" content="https://organicglobeinternational.com/airo-assets/images/pages/home/vision-produce" />
+        <meta name="twitter:image" content="https://organicglobeinternational.com/assets/logo-horizontal.png" />
         <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
         <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1" />
         <meta name="google-extended" content="index, follow" />

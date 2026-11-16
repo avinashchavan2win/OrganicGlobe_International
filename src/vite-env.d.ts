@@ -7,6 +7,8 @@ interface ImportMetaEnv {
   readonly VITE_APP_NAME: string
   readonly VITE_PUBLIC_URL: string
   readonly VITE_API_URL: string
+  /** Public Formspree form ID used by the static contact form. */
+  readonly VITE_FORMSPREE_FORM_ID: string | undefined
   readonly VITE_ENABLE_SOURCE_MAPPING: string
   readonly VITE_ENABLE_SSR: string
   /** Unique site/app identifier set by the container runtime (local-control-plane sets SITE_ID). */

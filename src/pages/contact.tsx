@@ -313,14 +313,38 @@ export default function ContactPage() {
         form.product === OTHER_VALUE        ? `Other: ${form.productOther}` :
         form.product;
 
-      const res = await fetch('/api/contact', {
+      const formId = import.meta.env.VITE_FORMSPREE_FORM_ID;
+      if (!formId) {
+        throw new Error('The contact form is not configured yet. Please email info@organicglobeinternational.com.');
+      }
+
+      const res = await fetch(`https://formspree.io/f/${formId}`, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ ...form, product: productFinal, inquiryType }),
+        headers: {
+          'Content-Type': 'application/json',
+          Accept: 'application/json',
+        },
+        body: JSON.stringify({
+          name: form.name,
+          email: form.email,
+          company: form.company,
+          phone: form.phone,
+          country: form.country,
+          product: productFinal,
+          volume: form.volume,
+          messageTopic: form.messageTopic,
+          message: form.message,
+          inquiryType,
+          subject: `[${inquiryType}] Website enquiry from ${form.name}`,
+          _gotcha: '',
+        }),
       });
+      const data = await res.json().catch(() => ({}));
       if (!res.ok) {
-        const data = await res.json().catch(() => ({}));
-        throw new Error(data.error || 'Failed to send message. Please try again.');
+        const detail = Array.isArray(data.errors)
+          ? data.errors.map((item: { message?: string }) => item.message).filter(Boolean).join(' ')
+          : '';
+        throw new Error(detail || data.error || 'Failed to send message. Please try again.');
       }
       setSubmitted(true);
     } catch (err: unknown) {
