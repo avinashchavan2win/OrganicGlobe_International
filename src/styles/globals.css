@@ -105,11 +105,13 @@
 html {
   scroll-behavior: smooth;
 }
-/* Hide Netlify free tier badge */
-#netlify-badge, 
+/* Hide Netlify badge injected at runtime */
+div#netlify-badge,
+a[href*="netlify.com/features/hosted-with-netlify"],
 iframe[src*="netlify"] {
   display: none !important;
   visibility: hidden !important;
   opacity: 0 !important;
   pointer-events: none !important;
+  z-index: -999999 !important;
 }
