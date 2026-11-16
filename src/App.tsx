@@ -1,4 +1,14 @@
 import { lazy, Suspense } from 'react';
+
+// Handle SPA redirect routing for GitHub Pages
+(function () {
+  var urlParams = new URLSearchParams(window.location.search);
+  var p = urlParams.get('p');
+  if (p) {
+    window.history.replaceState(null, null, p);
+  }
+})();
+
 import { Outlet, createBrowserRouter, type RouteObject } from 'react-router';
 import { RouterProvider } from 'react-router/dom';
 

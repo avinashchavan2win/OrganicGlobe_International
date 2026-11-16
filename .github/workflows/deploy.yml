@@ -27,7 +27,7 @@ jobs:
       - name: Install dependencies & Build
         run: |
               npm install
-              npx vite build
+              npx run build
               cp dist/index.html dist/404.html
               touch dist/.nojekyll
 
