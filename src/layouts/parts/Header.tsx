@@ -36,7 +36,7 @@ export default function Header() {
             className="relative isolate h-14 w-48 shrink-0 overflow-hidden md:h-16 md:w-[240px] lg:w-36 xl:h-20 xl:w-[300px]"
           >
             <img
-              src="/assets/logo-horizontal.png"
+              src="/assets/logo-horizontal.png?v=20261116"
               alt="OrganicGlobe International"
               className="absolute inset-0 h-full w-full object-cover"
             />
