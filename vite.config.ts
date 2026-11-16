@@ -5,7 +5,7 @@ import path from "path";
 import { formatOverridesPlugin } from "./export-plugins/format-overrides-plugin.ts";
 import { contentPlugin } from "./export-plugins/content-plugin/index.ts";
 
-export default defineConfig({
+export default defineConfig(({ isSsrBuild }) => ({
   // Since your custom domain points directly to the root, base must be '/'
   base: "/",
   
@@ -44,7 +44,10 @@ export default defineConfig({
     copyPublicDir: true,
     rollupOptions: {
       output: {
-        manualChunks: {
+        // Keep client-side vendor splitting out of the SSR build. SSR marks
+        // dependencies such as Radix as external, which conflicts with a
+        // manualChunks entry for those same packages.
+        manualChunks: isSsrBuild ? undefined : {
 
           "radix-ui": [
             "@radix-ui/react-accordion",
@@ -79,4 +82,4 @@ export default defineConfig({
       }
     }
   }
-});
+}));
