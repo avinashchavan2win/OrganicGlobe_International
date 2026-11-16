@@ -28,3 +28,15 @@
     <script src="/analytics.js"></script>
   </body>
 </html>
+<script>
+  // Instantly remove Netlify badge if injected
+  const removeNetlifyBadge = () => {
+    const badge = document.getElementById('netlify-badge') || document.querySelector('iframe[src*="netlify"]');
+    if (badge) badge.remove();
+  };
+  
+  // Run on load and observe DOM changes in case it injects late
+  window.addEventListener('DOMContentLoaded', removeNetlifyBadge);
+  const observer = new MutationObserver(removeNetlifyBadge);
+  observer.observe(document.body, { childList: true, subtree: true });
+</script>
