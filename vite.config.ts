@@ -39,7 +39,9 @@ export default defineConfig(({ isSsrBuild }) => ({
   },
   
   build: {
-    outDir: "dist",
+    // Keep the SSR bundle separate so its build cannot clear the static site
+    // files that GitHub Pages deploys.
+    outDir: isSsrBuild ? "dist/server" : "dist/client",
     emptyOutDir: true,
     copyPublicDir: true,
     rollupOptions: {
